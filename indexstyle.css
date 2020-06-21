@@ -1,0 +1,40 @@
+
+html {
+	background-color: #98d2e1;
+	text-align: center;
+	margin-left: 500px;
+	margin-right: 500px;
+	height: 100%;
+	
+}
+
+body {
+	color: #111E6C;
+	text-align: center;
+	background-color: #d2e198;
+	min-height: 100%;
+} 
+
+#homepage-text {
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+#Big {
+	color: #FFFFFF;
+	background-color: #c3073f;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+
+li {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	text-align; center
+}
